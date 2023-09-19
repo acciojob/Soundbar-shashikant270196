@@ -1,3 +1,6 @@
 *{
     background-color: rgb(161,100,223);
 }
+.div{
+	display:flex;
+	text-align:center;
